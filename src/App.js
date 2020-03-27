@@ -1,8 +1,8 @@
 import React from "react";
 import "./App.css";
 import {Route} from "react-router-dom";
-import Home from "./Home.js";
-import Form from "./Form";
+import Home from "./components/Home.js";
+import Form from "./components/Form";
 
 
 const App = () => {

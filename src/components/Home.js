@@ -5,9 +5,8 @@ const Home = () => {
     return(
         <div>
             <h1>Lambda Pizza Eats</h1>
-            <img 
-                className="pizzaPic" 
-                src="Assets/Pizza.jpg" 
+            <img  
+                src="./components/Pizza.jpg" 
                 alt="Pizza picture"
             />
                 <Link to={"/Form"}>
